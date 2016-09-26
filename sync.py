@@ -8,4 +8,4 @@ if __name__ == '__main__':
     this_obj = getty.get(826)
     pprint(this_obj.metadata)
     pprint(this_obj.filename)
-    this_obj.dump('/Users/rogerhoward/Desktop/getty')
+    this_obj.dump('./json')
