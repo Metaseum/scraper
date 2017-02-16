@@ -42,7 +42,7 @@ class GettyObject(object):
         if self.valid is False:
             return False
         with open(os.path.join(parent, self.filename), 'w') as f:
-            json.dump(self.metadata, f, ensure_ascii=False)
+            json.dump(self.metadata, f, indent=4, ensure_ascii=False, sort_keys=True)
         return True
     
     def mine(self):
