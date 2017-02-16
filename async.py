@@ -5,5 +5,5 @@ from tasks import get_object
 
 
 if __name__ == '__main__':
-    for objid in range(1, 1000):
+    for objid in range(10376, 100000):
         get_object.delay(objid)
