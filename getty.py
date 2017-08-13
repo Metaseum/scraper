@@ -41,10 +41,14 @@ class GettyObject(object):
     def dump(self, parent):
         if self.valid is False:
             return False
-        with open(os.path.join(parent, self.filename), 'w') as f:
+
+        this_dir = '{}/'.format(parent, self.filename[2:4], self.filename[4:6])
+        os.makedirs(this_dir, exist_ok=True)
+
+        with open(os.path.join(this_dir, self.filename), 'w') as f:
             json.dump(self.metadata, f, indent=4, ensure_ascii=False, sort_keys=True)
         return True
-    
+
     def mine(self):
         soup = BeautifulSoup(self.r.content, 'html.parser')
 

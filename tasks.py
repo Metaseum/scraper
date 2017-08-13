@@ -12,7 +12,7 @@ app.control.time_limit('get_object', soft=10, hard=20, reply=True)
 def get_object(objid):
     this_obj = getty.get(objid)
     if this_obj.valid:
-        this_obj.dump('./json')
+        this_obj.dump('../data-getty/json/')
         print('valid objid #{}'.format(objid))
         return True
     else:
