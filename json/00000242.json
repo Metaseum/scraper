@@ -1,1 +1,19 @@
-{"description": "Mars and Venus; Abraham Bloemaert (Dutch, 1564 - 1651); about 1592; Pen and brown ink, brown wash, white heightening over traces of black chalk; 41.1 x 30.2 cm (16 3/16 x 11 7/8 in.); 88.GG.40; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00024401.jpg", "date": "about 1592", "canonical_url": "http://www.getty.edu/art/collection/objects/242", "image_full": "http://www.getty.edu/museum/media/images/web/download/00024401.jpg", "culture": "Dutch", "maker": "Abraham Bloemaert", "medium": "Pen and brown ink, brown wash, white heightening over traces of black chalk", "classification": "Drawings", "name": "Mars and Venus", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "88.GG.40", "open_content": "yes", "title": "Mars and Venus", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00024401.jpg", "dimensions": "41.1 x 30.2 cm (16 3/16 x 11 7/8 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/242",
+    "culture": "Dutch",
+    "date": "1592",
+    "description": "Mars and Venus; Abraham Bloemaert (Dutch, 1564 - 1651); 1592; Pen and brown ink, brown wash, white heightening over traces of black chalk; 41.1 × 30.2 cm (16 3/16 × 11 7/8 in.); 88.GG.40; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "41.1 × 30.2 cm (16 3/16 × 11 7/8 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00024401.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00024401.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Abraham Bloemaert",
+    "medium": "Pen and brown ink, brown wash, white heightening over traces of black chalk",
+    "name": "Mars and Venus",
+    "object_number": "88.GG.40",
+    "object_type": "Drawing",
+    "on_view": "no",
+    "open_content": "yes",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00024401.jpg",
+    "title": "Mars and Venus"
+}

@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01131701.jpg", "title": "Scarab", "description": "Scarab; Unknown; Etruria; second half of 5th century B.C.; Carnelian and gold; 0.9 × 1.5 × 1 cm (3/8 × 9/16 × 3/8 in.); 81.AN.76.134; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "81.AN.76.134", "canonical_url": "http://www.getty.edu/art/collection/objects/9611", "image_full": "http://www.getty.edu/museum/media/images/web/download/01131701.jpg", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Scarab", "classification": "Jewelry", "culture": "Etruscan", "image": "http://www.getty.edu/museum/media/images/web/enlarge/01131701.jpg", "date": "second half of 5th century B.C.", "department": "Antiquities", "dimensions": "0.9 × 1.5 × 1 cm (3/8 × 9/16 × 3/8 in.)", "place_created": "Etruria", "object_type": "Scarab", "medium": "Carnelian and gold"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9611",
+    "culture": "Etruscan",
+    "date": "second half of 5th century B.C.",
+    "description": "Scarab; Unknown; Etruria; second half of 5th century B.C.; Carnelian and gold; 0.9 × 1.5 × 1 cm (3/8 × 9/16 × 3/8 in.); 81.AN.76.134; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "0.9 × 1.5 × 1 cm (3/8 × 9/16 × 3/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Carnelian and gold",
+    "name": "Scarab",
+    "object_number": "81.AN.76.134",
+    "object_type": "Scarab",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Etruria",
+    "title": "Scarab"
+}

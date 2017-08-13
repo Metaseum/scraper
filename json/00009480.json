@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01118601.jpg", "title": "Engraved Scarab", "description": "Engraved Scarab; Unknown; Greece; about 500 B.C.; Carnelian; 0.8 × 1.6 × 1.2 cm (5/16 × 5/8 × 1/2 in.); 81.AN.76.3; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "81.AN.76.3", "canonical_url": "http://www.getty.edu/art/collection/objects/9480", "image_full": "http://www.getty.edu/museum/media/images/web/download/01118601.jpg", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Engraved Scarab", "classification": "Jewelry", "culture": "Greek", "image": "http://www.getty.edu/museum/media/images/web/enlarge/01118601.jpg", "date": "about 500 B.C.", "department": "Antiquities", "dimensions": "0.8 × 1.6 × 1.2 cm (5/16 × 5/8 × 1/2 in.)", "place_created": "Greece", "object_type": "Scarab", "medium": "Carnelian"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9480",
+    "culture": "Greek",
+    "date": "about 500 B.C.",
+    "description": "Engraved Scarab; Unknown; Greece; about 500 B.C.; Carnelian; 0.8 × 1.6 × 1.2 cm (5/16 × 5/8 × 1/2 in.); 81.AN.76.3; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "0.8 × 1.6 × 1.2 cm (5/16 × 5/8 × 1/2 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Carnelian",
+    "name": "Engraved Scarab",
+    "object_number": "81.AN.76.3",
+    "object_type": "Scarab",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Greece",
+    "title": "Engraved Scarab"
+}

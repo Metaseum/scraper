@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/public/images/web/thumbnail/00766001.jpg", "title": "Conical Cup", "description": "Conical Cup; Unknown; Eastern Mediterranean; 1st century; Glass; 8.5 × 7.3 cm (3 3/8 × 2 7/8 in.); 71.AF.84; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "71.AF.84", "canonical_url": "http://www.getty.edu/art/collection/objects/6571", "image_full": "http://www.getty.edu/museum/media/public/images/web/download/00766001.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Conical Cup", "classification": "Vessels", "culture": "Roman (Syrian)", "image": "http://www.getty.edu/museum/media/public/images/web/enlarge/00766001.jpg", "date": "1st century", "department": "Antiquities", "dimensions": "8.5 × 7.3 cm (3 3/8 × 2 7/8 in.)", "place_created": "Eastern Mediterranean", "object_type": "Cup", "medium": "Glass"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6571",
+    "culture": "Roman (Syrian)",
+    "date": "1st century",
+    "description": "Conical Cup; Unknown; Eastern Mediterranean; 1st century; Glass; 8.5 × 7.3 cm (3 3/8 × 2 7/8 in.); 71.AF.84; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "8.5 × 7.3 cm (3 3/8 × 2 7/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Glass",
+    "name": "Conical Cup",
+    "object_number": "71.AF.84",
+    "object_type": "Cup",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Eastern Mediterranean",
+    "title": "Conical Cup"
+}

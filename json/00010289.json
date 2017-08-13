@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Antoninianus", "description": "Antoninianus; Unknown; Rome, Lazio, Italy; 268 - 270; Silver (or silvered bronze); 0.0035 kg (0.0077 lb.); 82.NE.112.19; Gift of Dr. Max Gerchik; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "82.NE.112.19", "canonical_url": "http://www.getty.edu/art/collection/objects/10289", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Antoninianus", "classification": "Coins", "culture": "Roman", "date": "268 - 270", "department": "Antiquities", "dimensions": "0.0035 kg (0.0077 lb.)", "place_created": "Rome, Lazio, Italy", "object_type": "Coin", "medium": "Silver (or silvered bronze)"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10289",
+    "culture": "Roman",
+    "date": "268 - 270",
+    "description": "Antoninianus; Unknown; Rome, Lazio, Italy; 268 - 270; Silver (or silvered bronze); 0.0035 kg (0.0077 lb.); 82.NE.112.19; Gift of Dr. Max Gerchik; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "0.0035 kg (0.0077 lb.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Silver (or silvered bronze)",
+    "name": "Antoninianus",
+    "object_number": "82.NE.112.19",
+    "object_type": "Coin",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Rome, Lazio, Italy",
+    "title": "Antoninianus"
+}

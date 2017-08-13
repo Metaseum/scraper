@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Greek Hair Ring Fragment", "description": "Greek Hair Ring Fragment; Unknown; Greece (?); 600 - 400 B.C.; Silver; 2.6 cm (1 in.); 81.AM.70; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "81.AM.70", "canonical_url": "http://www.getty.edu/art/collection/objects/9472", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Greek Hair Ring Fragment", "classification": "Jewelry", "culture": "Greek", "date": "600 - 400 B.C.", "department": "Antiquities", "dimensions": "2.6 cm (1 in.)", "place_created": "Greece (?)", "object_type": "Hair ring", "medium": "Silver"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9472",
+    "culture": "Greek",
+    "date": "600 - 400 B.C.",
+    "description": "Greek Hair Ring Fragment; Unknown; Greece (?); 600 - 400 B.C.; Silver; 2.6 cm (1 in.); 81.AM.70; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "2.6 cm (1 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Silver",
+    "name": "Greek Hair Ring Fragment",
+    "object_number": "81.AM.70",
+    "object_type": "Hair ring",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Greece (?)",
+    "title": "Greek Hair Ring Fragment"
+}

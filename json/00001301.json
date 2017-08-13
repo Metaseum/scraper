@@ -1,1 +1,21 @@
-{"maker": "Jean-Baptiste Chatigny (called Joanny)", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00151101.jpg", "title": "Head of St. John the Baptist", "description": "Head of St. John the Baptist; Jean-Baptiste Chatigny (called Joanny) (French, 1834 - 1886); Lyon, France; 1869; Bronze; 43 × 12.7 cm (16 15/16 × 5 in.); 95.SB.78; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "95.SB.78", "canonical_url": "http://www.getty.edu/art/collection/objects/1301", "image_full": "http://www.getty.edu/museum/media/images/web/download/00151101.jpg", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Head of St. John the Baptist", "classification": "Sculpture", "culture": "French", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00151101.jpg", "date": "1869", "department": "Sculpture & Decorative Arts", "dimensions": "43 × 12.7 cm (16 15/16 × 5 in.)", "place_created": "Lyon, France", "object_type": "Sculpture", "medium": "Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/1301",
+    "culture": "French",
+    "date": "1869",
+    "description": "Head of St. John the Baptist; Jean-Baptiste Chatigny (called Joanny) (French, 1834 - 1886); Lyon, France; 1869; Bronze; 43 × 12.7 cm (16 15/16 × 5 in.); 95.SB.78; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "43 × 12.7 cm (16 15/16 × 5 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00151101.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00151101.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Jean-Baptiste Chatigny (called Joanny)",
+    "medium": "Bronze",
+    "name": "Head of St. John the Baptist",
+    "object_number": "95.SB.78",
+    "object_type": "Sculpture",
+    "on_view": "yes",
+    "open_content": "yes",
+    "place_created": "Lyon, France",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00151101.jpg",
+    "title": "Head of St. John the Baptist"
+}

@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00768301.jpg", "title": "Statuette of an Ape with its Baby", "description": "Statuette of an Ape with its Baby; Unknown; Boeotia, Greece; early 6th century B.C.; Terracotta; 9 cm (3 9/16 in.); 71.AD.133; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "71.AD.133", "canonical_url": "http://www.getty.edu/art/collection/objects/6593", "image_full": "http://www.getty.edu/museum/media/images/web/download/00768301.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Statuette of an Ape with its Baby", "classification": "Sculpture", "culture": "Greek (Boeotian)", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00768301.jpg", "date": "early 6th century B.C.", "department": "Antiquities", "dimensions": "9 cm (3 9/16 in.)", "place_created": "Boeotia, Greece", "object_type": "Fauna", "medium": "Terracotta"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6593",
+    "culture": "Greek (Boeotian)",
+    "date": "early 6th century B.C.",
+    "description": "Statuette of an Ape with its Baby; Unknown; Boeotia, Greece; early 6th century B.C.; Terracotta; 9 cm (3 9/16 in.); 71.AD.133; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "9 cm (3 9/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Terracotta",
+    "name": "Statuette of an Ape with its Baby",
+    "object_number": "71.AD.133",
+    "object_type": "Fauna",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Boeotia, Greece",
+    "title": "Statuette of an Ape with its Baby"
+}

@@ -1,1 +1,20 @@
-{"maker": "Mesrop of Khizan", "title": "Leaf from Ms. Ludwig II 7", "description": "Leaf from Ms. Ludwig II 7; Mesrop of Khizan (Armenian, active 1605 - 1651); Isfahan, Persia; 1615; Tempera on glazed paper; Leaf: 22.9 × 17.1 cm (9 × 6 3/4 in.); Ms. Ludwig II 7a; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "Ms. Ludwig II 7a", "canonical_url": "http://www.getty.edu/art/collection/objects/1482", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Leaf from Ms. Ludwig II 7", "classification": "Manuscripts", "culture": "Armenian", "date": "1615", "department": "Manuscripts", "dimensions": "Leaf: 22.9 × 17.1 cm (9 × 6 3/4 in.)", "place_created": "Isfahan, Persia", "object_type": "Detached leaf", "medium": "Tempera on glazed paper"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/1482",
+    "culture": "Armenian",
+    "date": "1615",
+    "description": "Leaf from Ms. Ludwig II 7; Mesrop of Khizan (Armenian, active 1605 - 1651); Isfahan, Persia; 1615; Tempera on glazed paper; Leaf: 22.9 × 17.1 cm (9 × 6 3/4 in.); Ms. Ludwig II 7a; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "Leaf: 22.9 × 17.1 cm (9 × 6 3/4 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/13544401.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/13544401.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Mesrop of Khizan",
+    "medium": "Tempera on glazed paper",
+    "name": "Leaf from Ms. Ludwig II 7",
+    "object_number": "Ms. Ludwig II 7a",
+    "object_type": "Detached leaf",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Isfahan, Persia",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/13544401.jpg",
+    "title": "Leaf from Ms. Ludwig II 7"
+}

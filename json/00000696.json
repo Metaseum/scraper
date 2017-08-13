@@ -1,1 +1,21 @@
-{"description": "The Crucifixion; Dreux Budé Master, possibly André d'Ypres (French, active by 1425/26, died 1450); France; before 1450; Oil on panel; 48.6 x 71.1 cm (19 1/8 x 28 in.); 79.PB.177; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00081301.jpg", "date": "before 1450", "open_content": "yes", "canonical_url": "http://www.getty.edu/art/collection/objects/696", "image_full": "http://www.getty.edu/museum/media/images/web/download/00081301.jpg", "culture": "French", "maker": "Dreux Budé Master, possibly André d'Ypres", "medium": "Oil on panel", "classification": "Paintings", "name": "The Crucifixion", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "location": "gc", "object_number": "79.PB.177", "place_created": "France", "title": "The Crucifixion", "department": "Paintings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00081301.jpg", "dimensions": "48.6 x 71.1 cm (19 1/8 x 28 in.)", "on_view": "yes", "object_type": "Painting"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/696",
+    "culture": "French",
+    "date": "before 1450",
+    "description": "The Crucifixion; Dreux Budé Master, possibly André d'Ypres (French, active by 1425/26, died 1450); France; before 1450; Oil on panel; 48.6 × 71.1 cm (19 1/8 × 28 in.); 79.PB.177; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "48.6 × 71.1 cm (19 1/8 × 28 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00081301.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00081301.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Dreux Budé Master, possibly André d'Ypres",
+    "medium": "Oil on panel",
+    "name": "The Crucifixion",
+    "object_number": "79.PB.177",
+    "object_type": "Painting",
+    "on_view": "yes",
+    "open_content": "yes",
+    "place_created": "France",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00081301.jpg",
+    "title": "The Crucifixion"
+}

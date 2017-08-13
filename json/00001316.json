@@ -1,1 +1,16 @@
-{"maker": "Friedrich Winter", "title": "Goblet", "on_view": "yes", "open_content": "no", "object_number": "84.DK.568.1", "canonical_url": "http://www.getty.edu/art/collection/objects/1316", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Goblet", "classification": "Decorative Arts", "culture": "Silesian", "date": "about 1700", "department": "Sculpture & Decorative Arts", "description": "Goblet; Friedrich Winter (Polish (Silesian), died about 1711 or 1712); about 1700; Free-blown and wheel-engraved colorless glass (Hochschnitt); 84.DK.568.1; J. Paul Getty Museum, Los Angeles, California", "object_type": "Goblet", "medium": "Free-blown and wheel-engraved colorless glass (Hochschnitt)"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/1316",
+    "culture": "Silesian",
+    "date": "about 1700",
+    "description": "Goblet; Friedrich Winter (Polish (Silesian), died about 1711 or 1712); about 1700; Free-blown and wheel-engraved colorless glass (Hochschnitt); 84.DK.568.1; J. Paul Getty Museum, Los Angeles, California",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Friedrich Winter",
+    "medium": "Free-blown and wheel-engraved colorless glass (Hochschnitt)",
+    "name": "Goblet",
+    "object_number": "84.DK.568.1",
+    "object_type": "Goblet",
+    "on_view": "yes",
+    "open_content": "no",
+    "title": "Goblet"
+}

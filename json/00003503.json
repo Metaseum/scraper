@@ -1,1 +1,20 @@
-{"maker": "Workshop of the Bedford Master", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00380201.jpg", "title": "Saint Louis", "description": "Saint Louis; Workshop of the Bedford Master (French, active first half of 15th century); Paris, France; about 1440 - 1450; Tempera colors, gold leaf, gold paint, and ink on parchment; Leaf: 23.5 x 16.4 cm (9 1/4 x 6 7/16 in.); Ms. Ludwig IX 6, fol. 8v; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "Ms. Ludwig IX 6, fol. 8v", "canonical_url": "http://www.getty.edu/art/collection/objects/3503", "image_full": "http://www.getty.edu/museum/media/images/web/download/00380201.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Saint Louis", "classification": "Manuscripts", "culture": "French", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00380201.jpg", "date": "about 1440 - 1450", "department": "Manuscripts", "dimensions": "Leaf: 23.5 x 16.4 cm (9 1/4 x 6 7/16 in.)", "place_created": "Paris, France", "object_type": "Folio", "medium": "Tempera colors, gold leaf, gold paint, and ink on parchment"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/3503",
+    "culture": "French",
+    "date": "about 1440 - 1450",
+    "description": "Saint Louis; Workshop of the Bedford Master (French, active first half of 15th century); Paris, France; about 1440 - 1450; Tempera colors, gold leaf, gold paint, and ink on parchment; Leaf: 23.5 x 16.4 cm (9 1/4 x 6 7/16 in.); Ms. Ludwig IX 6, fol. 8v; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "Leaf: 23.5 x 16.4 cm (9 1/4 x 6 7/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00380201.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00380201.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Workshop of the Bedford Master",
+    "medium": "Tempera colors, gold leaf, gold paint, and ink on parchment",
+    "name": "Saint Louis",
+    "object_number": "Ms. Ludwig IX 6, fol. 8v",
+    "object_type": "Folio",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Paris, France",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00380201.jpg",
+    "title": "Saint Louis"
+}

@@ -1,1 +1,20 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00968901.jpg", "title": "East Greek Patera", "description": "East Greek Patera; Unknown; Asia Minor; about 530 B.C.; Bronze; 40.8 cm (16 1/16 in.); 78.AC.403; Gift of Malcolm Wiener; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "78.AC.403", "canonical_url": "http://www.getty.edu/art/collection/objects/8512", "image_full": "http://www.getty.edu/museum/media/images/web/download/00968901.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "East Greek Patera", "classification": "Vessels", "culture": "East Greek", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00968901.jpg", "date": "about 530 B.C.", "department": "Antiquities", "dimensions": "40.8 cm (16 1/16 in.)", "place_created": "Asia Minor", "object_type": "Patera", "medium": "Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8512",
+    "culture": "East Greek",
+    "date": "about 530 B.C.",
+    "description": "East Greek Patera; Unknown; Asia Minor; about 530 B.C.; Bronze; 40.8 cm (16 1/16 in.); 78.AC.403; Gift of Malcolm Wiener; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "40.8 cm (16 1/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00968901.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00968901.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze",
+    "name": "East Greek Patera",
+    "object_number": "78.AC.403",
+    "object_type": "Patera",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Asia Minor",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00968901.jpg",
+    "title": "East Greek Patera"
+}

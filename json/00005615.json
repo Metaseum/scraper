@@ -1,1 +1,21 @@
-{"maker": "Unknown maker", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00633601.jpg", "title": "Mounted Shell", "description": "Mounted Shell; Unknown maker; Arita, Japan; porcelain about 1660 - 1680; mounts about 1750; Hard-paste porcelain, celadon ground color, and polychrome enamel decoration; gilt-bronze mounts; 15.2 × 18.7 × 16.5 cm (6 × 7 3/8 × 6 1/2 in.); 77.DI.90.2; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "77.DI.90.2", "canonical_url": "http://www.getty.edu/art/collection/objects/5615", "image_full": "http://www.getty.edu/museum/media/images/web/download/00633601.jpg", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Mounted Shell", "classification": "Decorative Arts", "culture": "Japanese (porcelain) and French (mounts)", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00633601.jpg", "date": "porcelain about 1660 - 1680; mounts about 1750", "department": "Sculpture & Decorative Arts", "dimensions": "15.2 × 18.7 × 16.5 cm (6 × 7 3/8 × 6 1/2 in.)", "place_created": "Arita, Japan", "object_type": "Vase", "medium": "Hard-paste porcelain, celadon ground color, and polychrome enamel decoration; gilt-bronze mounts"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/5615",
+    "culture": "Japanese (porcelain) and French (mounts)",
+    "date": "1660 to 1750",
+    "description": "Mounted Shell; Unknown maker; Arita, Japan; 1660 to 1750; Hard-paste porcelain, celadon ground color, and polychrome enamel decoration; gilt-bronze mounts; 15.2 × 18.7 × 16.5 cm (6 × 7 3/8 × 6 1/2 in.); 77.DI.90.2; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "15.2 × 18.7 × 16.5 cm (6 × 7 3/8 × 6 1/2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00633601.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00633601.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Unknown maker",
+    "medium": "Hard-paste porcelain, celadon ground color, and polychrome enamel decoration; gilt-bronze mounts",
+    "name": "Mounted Shell",
+    "object_number": "77.DI.90.2",
+    "object_type": "Vase",
+    "on_view": "yes",
+    "open_content": "yes",
+    "place_created": "Arita, Japan",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00633601.jpg",
+    "title": "Mounted Shell"
+}

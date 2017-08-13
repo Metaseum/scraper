@@ -1,1 +1,17 @@
-{"canonical_url": "http://www.getty.edu/art/collection/objects/10902", "description": "Fibula; Unknown; Britain (?); 3rd century; Bronze and enamel; 3.3 x 7.3 cm (1 5/16 x 2 7/8 in.); 84.AC.741; Gift of Vasek Polak; J. Paul Getty Museum, Los Angeles, California", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "title": "Fibula", "name": "Fibula", "culture": "Roman (Romano-British ?)", "medium": "Bronze and enamel", "date": "3rd century", "dimensions": "3.3 x 7.3 cm (1 5/16 x 2 7/8 in.)", "maker": "Unknown", "place_created": "Britain (?)", "object_type": "Fibula", "object_number": "84.AC.741", "open_content": "no", "on_view": "no"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10902",
+    "culture": "Roman (Romano-British ?)",
+    "date": "3rd century",
+    "description": "Fibula; Unknown; Britain (?); 3rd century; Bronze and enamel; 3.3 x 7.3 cm (1 5/16 x 2 7/8 in.); 84.AC.741; Gift of Vasek Polak; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "3.3 x 7.3 cm (1 5/16 x 2 7/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze and enamel",
+    "name": "Fibula",
+    "object_number": "84.AC.741",
+    "object_type": "Fibula",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Britain (?)",
+    "title": "Fibula"
+}

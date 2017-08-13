@@ -1,1 +1,20 @@
-{"description": "Ruins of an Imperial Palace, Rome; Jean-Honoré Fragonard (French, 1732 - 1806); 1759; Red chalk on cream-colored paper; 33.5 × 47.6 cm (13 3/16 × 18 3/4 in.); 90.GB.138; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00032901.jpg", "date": "1759", "canonical_url": "http://www.getty.edu/art/collection/objects/327", "image_full": "http://www.getty.edu/museum/media/images/web/download/00032901.jpg", "culture": "French", "maker": "Jean-Honoré Fragonard", "medium": "Red chalk on cream-colored paper", "classification": "Drawings", "name": "Ruins of an Imperial Palace, Rome", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "90.GB.138", "open_content": "yes", "title": "Ruins of an Imperial Palace, Rome", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00032901.jpg", "dimensions": "33.5 × 47.6 cm (13 3/16 × 18 3/4 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/327",
+    "culture": "French",
+    "date": "1759",
+    "description": "Ruins of an Imperial Palace, Rome; Jean-Honoré Fragonard (French, 1732 - 1806); 1759; Red chalk on cream-colored paper; 33.5 × 47.6 cm (13 3/16 × 18 3/4 in.); 90.GB.138; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "33.5 × 47.6 cm (13 3/16 × 18 3/4 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00032901.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00032901.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Jean-Honoré Fragonard",
+    "medium": "Red chalk on cream-colored paper",
+    "name": "Ruins of an Imperial Palace, Rome",
+    "object_number": "90.GB.138",
+    "object_type": "Drawing",
+    "on_view": "yes",
+    "open_content": "yes",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00032901.jpg",
+    "title": "Ruins of an Imperial Palace, Rome"
+}

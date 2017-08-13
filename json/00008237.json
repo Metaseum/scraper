@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "One fragment of a Duck Askos", "description": "One fragment of a Duck Askos; Unknown; Etruria; about 400 B.C.; Terracotta; 6 cm (2 3/8 in.); 78.AE.280.b; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "78.AE.280.b", "canonical_url": "http://www.getty.edu/art/collection/objects/8237", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "One fragment of a Duck Askos", "classification": "Vessels", "culture": "Etruscan", "date": "about 400 B.C.", "department": "Antiquities", "dimensions": "6 cm (2 3/8 in.)", "place_created": "Etruria", "object_type": "Askos", "medium": "Terracotta"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8237",
+    "culture": "Etruscan",
+    "date": "about 400 B.C.",
+    "description": "One fragment of a Duck Askos; Unknown; Etruria; about 400 B.C.; Terracotta; 6 cm (2 3/8 in.); 78.AE.280.b; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "6 cm (2 3/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Terracotta",
+    "name": "One fragment of a Duck Askos",
+    "object_number": "78.AE.280.b",
+    "object_type": "Askos",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Etruria",
+    "title": "One fragment of a Duck Askos"
+}

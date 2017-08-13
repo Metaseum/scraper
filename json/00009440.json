@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Greek Relief Fragment", "description": "Greek Relief Fragment; Unknown; Athens, Greece; about 560 B.C.; Terracotta; 47.9 x 41 cm (18 7/8 x 16 1/8 in.); 81.AD.51; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "81.AD.51", "canonical_url": "http://www.getty.edu/art/collection/objects/9440", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Greek Relief Fragment", "classification": "Sculpture", "culture": "Greek (Attic)", "date": "about 560 B.C.", "department": "Antiquities", "dimensions": "47.9 x 41 cm (18 7/8 x 16 1/8 in.)", "place_created": "Athens, Greece", "object_type": "Relief", "medium": "Terracotta"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9440",
+    "culture": "Greek (Attic)",
+    "date": "about 560 B.C.",
+    "description": "Greek Relief Fragment; Unknown; Athens, Greece; about 560 B.C.; Terracotta; 47.9 × 41 cm (18 7/8 × 16 1/8 in.); 81.AD.51; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "47.9 × 41 cm (18 7/8 × 16 1/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Terracotta",
+    "name": "Greek Relief Fragment",
+    "object_number": "81.AD.51",
+    "object_type": "Relief",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Athens, Greece",
+    "title": "Greek Relief Fragment"
+}

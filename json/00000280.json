@@ -1,1 +1,20 @@
-{"description": "Design for a Frieze of Grapevines; Virgil Solis (German, 1514 - 1562); Germany; 1537; Pen and black ink, horizontal stylus indentation lines above and below the length of the design; 10.6 x 32.4 cm (4 3/16 x 12 3/4 in.); 89.GA.21; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00028201.jpg", "date": "1537", "open_content": "yes", "canonical_url": "http://www.getty.edu/art/collection/objects/280", "image_full": "http://www.getty.edu/museum/media/images/web/download/00028201.jpg", "culture": "German", "maker": "Virgil Solis", "medium": "Pen and black ink, horizontal stylus indentation lines above and below the length of the design", "classification": "Drawings", "name": "Design for a Frieze of Grapevines", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "89.GA.21", "place_created": "Germany", "title": "Design for a Frieze of Grapevines", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00028201.jpg", "dimensions": "10.6 x 32.4 cm (4 3/16 x 12 3/4 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/280",
+    "culture": "German",
+    "date": "1537",
+    "description": "Design for a Frieze of Grapevines; Virgil Solis (German, 1514 - 1562); Germany; 1537; Pen and black ink, horizontal stylus indentation lines above and below the length of the design; 10.6 × 32.4 cm (4 3/16 × 12 3/4 in.); 89.GA.21; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "10.6 × 32.4 cm (4 3/16 × 12 3/4 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00028201.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00028201.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Virgil Solis",
+    "medium": "Pen and black ink, horizontal stylus indentation lines above and below the length of the design",
+    "name": "Design for a Frieze of Grapevines",
+    "object_number": "89.GA.21",
+    "object_type": "Drawing",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Germany",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00028201.jpg",
+    "title": "Design for a Frieze of Grapevines"
+}

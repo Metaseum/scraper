@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Ring", "description": "Ring; Unknown; Greece; 4th century B.C.; Bronze; 1.5 × 1 cm (9/16 × 3/8 in.); 81.AN.76.80; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "81.AN.76.80", "canonical_url": "http://www.getty.edu/art/collection/objects/9557", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Ring", "classification": "Jewelry", "culture": "Greek", "date": "4th century B.C.", "department": "Antiquities", "dimensions": "1.5 × 1 cm (9/16 × 3/8 in.)", "place_created": "Greece", "object_type": "Ring", "medium": "Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9557",
+    "culture": "Greek",
+    "date": "4th century B.C.",
+    "description": "Ring; Unknown; Greece; 4th century B.C.; Bronze; 1.5 × 1 cm (9/16 × 3/8 in.); 81.AN.76.80; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "1.5 × 1 cm (9/16 × 3/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze",
+    "name": "Ring",
+    "object_number": "81.AN.76.80",
+    "object_type": "Ring",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Greece",
+    "title": "Ring"
+}

@@ -1,1 +1,20 @@
-{"description": "Self-portrait; Edgar Degas (French, 1834 - 1917); 1857 - 1858; Oil on paper, laid down on canvas; 21 × 16.2 cm (8 1/4 × 6 3/8 in.); 95.GG.43; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00050301.jpg", "date": "1857 - 1858", "canonical_url": "http://www.getty.edu/art/collection/objects/494", "image_full": "http://www.getty.edu/museum/media/images/web/download/00050301.jpg", "culture": "French", "maker": "Edgar Degas", "medium": "Oil on paper, laid down on canvas", "classification": "Paintings", "name": "Self-portrait", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "location": "gc", "object_number": "95.GG.43", "open_content": "yes", "title": "Self-portrait", "department": "Paintings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00050301.jpg", "dimensions": "21 × 16.2 cm (8 1/4 × 6 3/8 in.)", "on_view": "yes", "object_type": "Painting"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/494",
+    "culture": "French",
+    "date": "1857 - 1858",
+    "description": "Self-portrait; Edgar Degas (French, 1834 - 1917); 1857 - 1858; Oil on paper, laid down on canvas; 21 × 16.2 cm (8 1/4 × 6 3/8 in.); 95.GG.43; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "21 × 16.2 cm (8 1/4 × 6 3/8 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00050301.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00050301.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Edgar Degas",
+    "medium": "Oil on paper, laid down on canvas",
+    "name": "Self-portrait",
+    "object_number": "95.GG.43",
+    "object_type": "Painting",
+    "on_view": "yes",
+    "open_content": "yes",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00050301.jpg",
+    "title": "Self-portrait"
+}

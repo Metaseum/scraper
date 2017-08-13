@@ -1,1 +1,20 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00767201.jpg", "title": "Grave Stele of Mynnia", "description": "Grave Stele of Mynnia; Unknown; Greece (Attica); about 370 B.C.; Marble; 97.8 × 43.8 × 5.1 cm (38 1/2 × 17 1/4 × 2 in.); 71.AA.121; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "71.AA.121", "canonical_url": "http://www.getty.edu/art/collection/objects/6582", "image_full": "http://www.getty.edu/museum/media/images/web/download/00767201.jpg", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Grave Stele of Mynnia", "classification": "Sculpture", "culture": "Greek (Attic)", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00767201.jpg", "date": "about 370 B.C.", "department": "Antiquities", "dimensions": "97.8 × 43.8 × 5.1 cm (38 1/2 × 17 1/4 × 2 in.)", "place_created": "Greece (Attica)", "object_type": "Relief", "medium": "Marble"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6582",
+    "culture": "Greek (Attic)",
+    "date": "about 370 B.C.",
+    "description": "Grave Stele of Mynnia; Unknown; Greece (Attica); about 370 B.C.; Marble; 97.8 × 43.8 × 5.1 cm (38 1/2 × 17 1/4 × 2 in.); 71.AA.121; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "97.8 × 43.8 × 5.1 cm (38 1/2 × 17 1/4 × 2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00767201.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00767201.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Marble",
+    "name": "Grave Stele of Mynnia",
+    "object_number": "71.AA.121",
+    "object_type": "Relief",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Greece (Attica)",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00767201.jpg",
+    "title": "Grave Stele of Mynnia"
+}

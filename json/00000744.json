@@ -1,1 +1,20 @@
-{"description": "The Stoning of St. Stephen; Bartholomeus Breenbergh (Dutch, 1598 - 1657); 1632; Oil on panel; 67.5 × 92.1 cm (26 9/16 × 36 1/4 in.); 84.PB.639; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00086301.jpg", "date": "1632", "canonical_url": "http://www.getty.edu/art/collection/objects/744", "image_full": "http://www.getty.edu/museum/media/images/web/download/00086301.jpg", "culture": "Dutch", "maker": "Bartholomeus Breenbergh", "medium": "Oil on panel", "classification": "Paintings", "name": "The Stoning of St. Stephen", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "location": "gc", "object_number": "84.PB.639", "open_content": "yes", "title": "The Stoning of St. Stephen", "department": "Paintings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00086301.jpg", "dimensions": "67.5 × 92.1 cm (26 9/16 × 36 1/4 in.)", "on_view": "yes", "object_type": "Painting"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/744",
+    "culture": "Dutch",
+    "date": "1632",
+    "description": "The Stoning of St. Stephen; Bartholomeus Breenbergh (Dutch, 1598 - 1657); 1632; Oil on panel; 67.5 × 92.1 cm (26 9/16 × 36 1/4 in.); 84.PB.639; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "67.5 × 92.1 cm (26 9/16 × 36 1/4 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00086301.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00086301.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Bartholomeus Breenbergh",
+    "medium": "Oil on panel",
+    "name": "The Stoning of St. Stephen",
+    "object_number": "84.PB.639",
+    "object_type": "Painting",
+    "on_view": "yes",
+    "open_content": "yes",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00086301.jpg",
+    "title": "The Stoning of St. Stephen"
+}

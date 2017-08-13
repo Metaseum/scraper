@@ -1,1 +1,19 @@
-{"description": "The Age of Augustus, the Birth of Christ; Jean-Léon Gérôme (French, 1824 - 1904); about 1852 - 1854; Oil on canvas; 37.1 × 55.2 cm (14 5/8 × 21 3/4 in.); 85.PA.226; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00088601.jpg", "date": "about 1852 - 1854", "canonical_url": "http://www.getty.edu/art/collection/objects/767", "image_full": "http://www.getty.edu/museum/media/images/web/download/00088601.jpg", "culture": "French", "maker": "Jean-Léon Gérôme", "medium": "Oil on canvas", "classification": "Paintings", "name": "The Age of Augustus, the Birth of Christ", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "85.PA.226", "open_content": "yes", "title": "The Age of Augustus, the Birth of Christ", "department": "Paintings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00088601.jpg", "dimensions": "37.1 × 55.2 cm (14 5/8 × 21 3/4 in.)", "on_view": "yes", "object_type": "Painting"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/767",
+    "culture": "French",
+    "date": "about 1852 - 1854",
+    "description": "The Age of Augustus, the Birth of Christ; Jean-Léon Gérôme (French, 1824 - 1904); about 1852 - 1854; Oil on canvas; 37.1 × 55.2 cm (14 5/8 × 21 3/4 in.); 85.PA.226; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "37.1 × 55.2 cm (14 5/8 × 21 3/4 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00088601.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00088601.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Jean-Léon Gérôme",
+    "medium": "Oil on canvas",
+    "name": "The Age of Augustus, the Birth of Christ",
+    "object_number": "85.PA.226",
+    "object_type": "Painting",
+    "on_view": "no",
+    "open_content": "yes",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00088601.jpg",
+    "title": "The Age of Augustus, the Birth of Christ"
+}

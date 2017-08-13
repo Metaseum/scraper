@@ -1,1 +1,20 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00813001.jpg", "title": "Head of a Woman", "description": "Head of a Woman; Unknown; Greece; about 320 B.C.; Marble; 30.5 × 18.2 × 23 cm (12 × 7 3/16 × 9 1/16 in.); 73.AA.29; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "73.AA.29", "canonical_url": "http://www.getty.edu/art/collection/objects/7038", "image_full": "http://www.getty.edu/museum/media/images/web/download/00813001.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Head of a Woman", "classification": "Sculpture", "culture": "Greek", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00813001.jpg", "date": "about 320 B.C.", "department": "Antiquities", "dimensions": "30.5 × 18.2 × 23 cm (12 × 7 3/16 × 9 1/16 in.)", "place_created": "Greece", "object_type": "Female portrait", "medium": "Marble"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/7038",
+    "culture": "Greek",
+    "date": "about 320 B.C.",
+    "description": "Head of a Woman; Unknown; Greece; about 320 B.C.; Marble; 30.5 × 18.2 × 23 cm (12 × 7 3/16 × 9 1/16 in.); 73.AA.29; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "30.5 × 18.2 × 23 cm (12 × 7 3/16 × 9 1/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00813001.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00813001.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Marble",
+    "name": "Head of a Woman",
+    "object_number": "73.AA.29",
+    "object_type": "Female portrait",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Greece",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00813001.jpg",
+    "title": "Head of a Woman"
+}

@@ -1,1 +1,20 @@
-{"description": "Battle Scene; Girolamo Genga (Italian, 1467 - 1551); Italy; about 1525; Pen and brown ink; 14 x 20.2 cm (5 1/2 x 7 15/16 in.); 90.GA.131; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00033001.jpg", "date": "about 1525", "open_content": "yes", "canonical_url": "http://www.getty.edu/art/collection/objects/328", "image_full": "http://www.getty.edu/museum/media/images/web/download/00033001.jpg", "culture": "Italian", "maker": "Girolamo Genga", "medium": "Pen and brown ink", "classification": "Drawings", "name": "Battle Scene", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "90.GA.131", "place_created": "Italy", "title": "Battle Scene", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00033001.jpg", "dimensions": "14 x 20.2 cm (5 1/2 x 7 15/16 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/328",
+    "culture": "Italian",
+    "date": "about 1525",
+    "description": "Battle Scene; Girolamo Genga (Italian, 1467 - 1551); Italy; about 1525; Pen and brown ink; 14 × 20.2 cm (5 1/2 × 7 15/16 in.); 90.GA.131; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "14 × 20.2 cm (5 1/2 × 7 15/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00033001.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00033001.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Girolamo Genga",
+    "medium": "Pen and brown ink",
+    "name": "Battle Scene",
+    "object_number": "90.GA.131",
+    "object_type": "Drawing",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00033001.jpg",
+    "title": "Battle Scene"
+}

@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Red-Figure Genucilia Plate", "description": "Red-Figure Genucilia Plate; Unknown; Etruria; 350 - 300 B.C.; Terracotta; 4.9 × 14.4 cm (1 15/16 × 5 11/16 in.); 80.AE.75; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "80.AE.75", "canonical_url": "http://www.getty.edu/art/collection/objects/9237", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Red-Figure Genucilia Plate", "classification": "Vessels", "culture": "Etruscan", "date": "350 - 300 B.C.", "department": "Antiquities", "dimensions": "4.9 × 14.4 cm (1 15/16 × 5 11/16 in.)", "place_created": "Etruria", "object_type": "Plate", "medium": "Terracotta"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/9237",
+    "culture": "Etruscan",
+    "date": "350 - 300 B.C.",
+    "description": "Red-Figure Genucilia Plate; Unknown; Etruria; 350 - 300 B.C.; Terracotta; 4.9 × 14.4 cm (1 15/16 × 5 11/16 in.); 80.AE.75; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "4.9 × 14.4 cm (1 15/16 × 5 11/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Terracotta",
+    "name": "Red-Figure Genucilia Plate",
+    "object_number": "80.AE.75",
+    "object_type": "Plate",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Etruria",
+    "title": "Red-Figure Genucilia Plate"
+}

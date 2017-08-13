@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Bowl", "description": "Bowl; Unknown; Asia Minor; 4th century; Glass; 14 cm (5 1/2 in.); 78.AF.22; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "78.AF.22", "canonical_url": "http://www.getty.edu/art/collection/objects/8156", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Bowl", "classification": "Vessels", "culture": "Roman", "date": "4th century", "department": "Antiquities", "dimensions": "14 cm (5 1/2 in.)", "place_created": "Asia Minor", "object_type": "Bowl", "medium": "Glass"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8156",
+    "culture": "Roman",
+    "date": "4th century",
+    "description": "Bowl; Unknown; Asia Minor; 4th century; Glass; 14 cm (5 1/2 in.); 78.AF.22; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "14 cm (5 1/2 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Glass",
+    "name": "Bowl",
+    "object_number": "78.AF.22",
+    "object_type": "Bowl",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Asia Minor",
+    "title": "Bowl"
+}

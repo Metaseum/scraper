@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01215001.jpg", "title": "Belt Buckle", "description": "Belt Buckle; Unknown; Eastern Hellenistic Empire; 1st century B.C. - 1st century A.D.; Gold; 2.5 cm (1 in.); 82.AM.98.1.1; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "82.AM.98.1.1", "canonical_url": "http://www.getty.edu/art/collection/objects/10202", "image_full": "http://www.getty.edu/museum/media/images/web/download/01215001.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Belt Buckle", "classification": "Implements", "culture": "Greco-Bactrian", "image": "http://www.getty.edu/museum/media/images/web/enlarge/01215001.jpg", "date": "1st century B.C. - 1st century A.D.", "department": "Antiquities", "dimensions": "2.5 cm (1 in.)", "place_created": "Eastern Hellenistic Empire", "object_type": "Buckle", "medium": "Gold"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10202",
+    "culture": "Greco-Bactrian",
+    "date": "1st century B.C. - 1st century A.D.",
+    "description": "Belt Buckle; Unknown; Eastern Hellenistic Empire; 1st century B.C. - 1st century A.D.; Gold; 2.5 cm (1 in.); 82.AM.98.1.1; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "2.5 cm (1 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Gold",
+    "name": "Belt Buckle",
+    "object_number": "82.AM.98.1.1",
+    "object_type": "Buckle",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Eastern Hellenistic Empire",
+    "title": "Belt Buckle"
+}

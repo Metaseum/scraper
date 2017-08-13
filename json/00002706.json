@@ -1,1 +1,20 @@
-{"maker": "Master of the Lee Hours", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00298501.jpg", "title": "The Deposition", "description": "The Deposition; Master of the Lee Hours (Flemish, active about 1450 - 1470); Ghent (probably), Belgium; about 1450 - 1455; Tempera colors, gold leaf, and ink on parchment; Leaf: 19.4 x 14 cm (7 5/8 x 5 1/2 in.); Ms. 2, fol. 101v; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "Ms. 2, fol. 101v", "canonical_url": "http://www.getty.edu/art/collection/objects/2706", "image_full": "http://www.getty.edu/museum/media/images/web/download/00298501.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "The Deposition", "classification": "Manuscripts", "culture": "Flemish", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00298501.jpg", "date": "about 1450 - 1455", "department": "Manuscripts", "dimensions": "Leaf: 19.4 x 14 cm (7 5/8 x 5 1/2 in.)", "place_created": "Ghent (probably), Belgium", "object_type": "Folio", "medium": "Tempera colors, gold leaf, and ink on parchment"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/2706",
+    "culture": "Flemish",
+    "date": "about 1450 - 1455",
+    "description": "The Deposition; Master of the Lee Hours (Flemish, active about 1450 - 1470); Ghent (probably), Belgium; about 1450 - 1455; Tempera colors, gold leaf, and ink on parchment; Leaf: 19.4 x 14 cm (7 5/8 x 5 1/2 in.); Ms. 2, fol. 101v; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "Leaf: 19.4 x 14 cm (7 5/8 x 5 1/2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00298501.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00298501.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Master of the Lee Hours",
+    "medium": "Tempera colors, gold leaf, and ink on parchment",
+    "name": "The Deposition",
+    "object_number": "Ms. 2, fol. 101v",
+    "object_type": "Folio",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Ghent (probably), Belgium",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00298501.jpg",
+    "title": "The Deposition"
+}

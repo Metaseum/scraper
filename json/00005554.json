@@ -1,1 +1,18 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00627101.jpg", "title": "Standing Tazza", "description": "Standing Tazza; Unknown; Paris, France; about 1785; Jaune fonce marble and breche violette (?); gilt bronze mounts; 37.8 x 24.4 x 25.2 cm (14 7/8 x 9 5/8 x 9 15/16 in.); 74.DJ.4.2; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "74.DJ.4.2", "canonical_url": "http://www.getty.edu/art/collection/objects/5554", "image_full": "http://www.getty.edu/museum/media/images/web/download/00627101.jpg", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Standing Tazza", "classification": "Decorative Arts", "culture": "French", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00627101.jpg", "date": "about 1785", "department": "Sculpture & Decorative Arts", "dimensions": "37.8 x 24.4 x 25.2 cm (14 7/8 x 9 5/8 x 9 15/16 in.)", "place_created": "Paris, France", "object_type": "Tazza", "medium": "Jaune fonce marble and breche violette (?); gilt bronze mounts"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/5554",
+    "culture": "French",
+    "date": "about 1785",
+    "description": "Standing Tazza; Unknown; Paris, France; about 1785; Jaune fonce marble and breche violette (?); gilt bronze mounts; 37.8 x 24.4 x 25.2 cm (14 7/8 x 9 5/8 x 9 15/16 in.); 74.DJ.4.2; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "37.8 x 24.4 x 25.2 cm (14 7/8 x 9 5/8 x 9 15/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Unknown",
+    "medium": "Jaune fonce marble and breche violette (?); gilt bronze mounts",
+    "name": "Standing Tazza",
+    "object_number": "74.DJ.4.2",
+    "object_type": "Tazza",
+    "on_view": "yes",
+    "open_content": "no",
+    "place_created": "Paris, France",
+    "title": "Standing Tazza"
+}

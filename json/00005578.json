@@ -1,1 +1,21 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00629401.jpg", "title": "Paperweight (presse-papiers)", "description": "Paperweight (presse-papiers); Unknown; Paris, France; about 1715; Gilt bronze; 6.7 x 16.2 x 11.4 cm (2 5/8 x 6 3/8 x 4 1/2 in.); 75.DF.6.2; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "75.DF.6.2", "canonical_url": "http://www.getty.edu/art/collection/objects/5578", "image_full": "http://www.getty.edu/museum/media/images/web/download/00629401.jpg", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Paperweight (presse-papiers)", "classification": "Decorative Arts", "culture": "French", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00629401.jpg", "date": "about 1715", "department": "Sculpture & Decorative Arts", "dimensions": "6.7 x 16.2 x 11.4 cm (2 5/8 x 6 3/8 x 4 1/2 in.)", "place_created": "Paris, France", "object_type": "Paperweight", "medium": "Gilt bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/5578",
+    "culture": "French",
+    "date": "about 1715",
+    "description": "Paperweight (presse-papiers); Unknown; Paris, France; about 1715; Gilt bronze; 6.7 x 16.2 x 11.4 cm (2 5/8 x 6 3/8 x 4 1/2 in.); 75.DF.6.2; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "6.7 x 16.2 x 11.4 cm (2 5/8 x 6 3/8 x 4 1/2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00629401.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00629401.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Unknown",
+    "medium": "Gilt bronze",
+    "name": "Paperweight (presse-papiers)",
+    "object_number": "75.DF.6.2",
+    "object_type": "Paperweight",
+    "on_view": "yes",
+    "open_content": "yes",
+    "place_created": "Paris, France",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00629401.jpg",
+    "title": "Paperweight (presse-papiers)"
+}

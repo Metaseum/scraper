@@ -1,1 +1,20 @@
-{"maker": "Georges Jacob", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00687901.jpg", "title": "One pair of Armchairs", "description": "One pair of Armchairs; Georges Jacob (French, 1739 - 1814, master 1765); Paris, France; about 1790 - 1792; Painted beechwood and modern silk upholstery; 95.3 x 59.7 cm (37 1/2 x 23 1/2 in.); 91.DA.15.1; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "91.DA.15.1", "canonical_url": "http://www.getty.edu/art/collection/objects/6018", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "One pair of Armchairs", "classification": "Decorative Arts", "culture": "French", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00687901.jpg", "date": "about 1790 - 1792", "department": "Sculpture & Decorative Arts", "dimensions": "95.3 x 59.7 cm (37 1/2 x 23 1/2 in.)", "place_created": "Paris, France", "object_type": "Furniture", "medium": "Painted beechwood and modern silk upholstery"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6018",
+    "culture": "French",
+    "date": "about 1790 - 1792",
+    "description": "One pair of Armchairs; Georges Jacob (French, 1739 - 1814, master 1765); Paris, France; about 1790 - 1792; Painted beechwood and modern silk upholstery; 95.3 x 59.7 cm (37 1/2 x 23 1/2 in.); 91.DA.15.1; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "95.3 x 59.7 cm (37 1/2 x 23 1/2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00687901.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Georges Jacob",
+    "medium": "Painted beechwood and modern silk upholstery",
+    "name": "One pair of Armchairs",
+    "object_number": "91.DA.15.1",
+    "object_type": "Furniture",
+    "on_view": "yes",
+    "open_content": "no",
+    "place_created": "Paris, France",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00687901.jpg",
+    "title": "One pair of Armchairs"
+}

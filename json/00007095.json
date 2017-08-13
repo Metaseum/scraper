@@ -1,1 +1,20 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00818801.jpg", "title": "Fresco Fragment", "description": "Fresco Fragment; Unknown; Italy; third quarter of 1st century; Fresco; 88.5 × 85.5 cm (34 13/16 × 33 11/16 in.); 73.AG.103; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "73.AG.103", "canonical_url": "http://www.getty.edu/art/collection/objects/7095", "image_full": "http://www.getty.edu/museum/media/images/web/download/00818801.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Fresco Fragment", "classification": "Paintings", "culture": "Roman", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00818801.jpg", "date": "third quarter of 1st century", "department": "Antiquities", "dimensions": "88.5 × 85.5 cm (34 13/16 × 33 11/16 in.)", "place_created": "Italy", "object_type": "Fresco", "medium": "Fresco"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/7095",
+    "culture": "Roman",
+    "date": "third quarter of 1st century",
+    "description": "Fresco Fragment; Unknown; Italy; third quarter of 1st century; Fresco; 88.5 × 85.5 cm (34 13/16 × 33 11/16 in.); 73.AG.103; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "88.5 × 85.5 cm (34 13/16 × 33 11/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00818801.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00818801.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Fresco",
+    "name": "Fresco Fragment",
+    "object_number": "73.AG.103",
+    "object_type": "Fresco",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00818801.jpg",
+    "title": "Fresco Fragment"
+}

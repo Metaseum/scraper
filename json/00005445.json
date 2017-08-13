@@ -1,1 +1,18 @@
-{"maker": "Unknown", "title": "Left Firedog", "description": "Left Firedog; Unknown; Paris, France; about 1735; Gilt bronze; 35.9 x 38.1 x 24.4 cm (14 1/8 x 15 x 9 5/8 in.); 71.DF.114.1; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "71.DF.114.1", "canonical_url": "http://www.getty.edu/art/collection/objects/5445", "location": "gc", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Left Firedog", "classification": "Decorative Arts", "culture": "French", "date": "about 1735", "department": "Sculpture & Decorative Arts", "dimensions": "35.9 x 38.1 x 24.4 cm (14 1/8 x 15 x 9 5/8 in.)", "place_created": "Paris, France", "object_type": "Firedog", "medium": "Gilt bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/5445",
+    "culture": "French",
+    "date": "1735",
+    "description": "Left Firedog; Unknown; Paris, France; 1735; Gilt bronze; 35.9 × 38.1 × 24.4 cm (14 1/8 × 15 × 9 5/8 in.); 71.DF.114.1; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "35.9 × 38.1 × 24.4 cm (14 1/8 × 15 × 9 5/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Unknown",
+    "medium": "Gilt bronze",
+    "name": "Left Firedog",
+    "object_number": "71.DF.114.1",
+    "object_type": "Firedog",
+    "on_view": "yes",
+    "open_content": "no",
+    "place_created": "Paris, France",
+    "title": "Left Firedog"
+}

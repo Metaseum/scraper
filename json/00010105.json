@@ -1,1 +1,20 @@
-{"maker": "Attributed to the Painter of Louvre MNB 1148", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01203801.jpg", "title": "Apulian Red-Figure Loutrophoros", "description": "Apulian Red-Figure Loutrophoros; Attributed to the Painter of Louvre MNB 1148 (Greek (Apulian), active 350 - 330 B.C.); Apulia, South Italy; about 330 B.C.; Terracotta; 98 × 37 cm (38 9/16 × 14 9/16 in.); 82.AE.16; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "82.AE.16", "canonical_url": "http://www.getty.edu/art/collection/objects/10105", "image_full": "http://www.getty.edu/museum/media/images/web/download/01203801.jpg", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Apulian Red-Figure Loutrophoros", "classification": "Vessels", "culture": "South Italian (Apulian)", "image": "http://www.getty.edu/museum/media/images/web/enlarge/01203801.jpg", "date": "about 330 B.C.", "department": "Antiquities", "dimensions": "98 × 37 cm (38 9/16 × 14 9/16 in.)", "place_created": "Apulia, South Italy", "object_type": "Loutrophoros", "medium": "Terracotta"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10105",
+    "culture": "South Italian (Apulian)",
+    "date": "about 330 B.C.",
+    "description": "Apulian Red-Figure Loutrophoros; Attributed to the Painter of Louvre MNB 1148 (Greek (Apulian), active 350 - 330 B.C.); Apulia, South Italy; about 330 B.C.; Terracotta; 98 × 37 cm (38 9/16 × 14 9/16 in.); 82.AE.16; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "98 × 37 cm (38 9/16 × 14 9/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/01203801.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/01203801.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Attributed to the Painter of Louvre MNB 1148",
+    "medium": "Terracotta",
+    "name": "Apulian Red-Figure Loutrophoros",
+    "object_number": "82.AE.16",
+    "object_type": "Loutrophoros",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Apulia, South Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01203801.jpg",
+    "title": "Apulian Red-Figure Loutrophoros"
+}

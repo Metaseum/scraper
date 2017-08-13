@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00275701.jpg", "title": "Missal", "description": "Missal; Unknown; Westphalia, Germany; about 1500 - 1505; Tempera colors, gold paint, and ink on parchment bound between wood boards covered with pigskin; Leaf: 38.7 x 27.9 cm (15 1/4 x 11 in.); Ms. 18; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "Ms. 18", "canonical_url": "http://www.getty.edu/art/collection/objects/1485", "image_full": "http://www.getty.edu/museum/media/images/web/download/00275701.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Missal", "classification": "Manuscripts", "culture": "German", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00275701.jpg", "date": "about 1500 - 1505", "department": "Manuscripts", "dimensions": "Leaf: 38.7 x 27.9 cm (15 1/4 x 11 in.)", "place_created": "Westphalia, Germany", "object_type": "Manuscript", "medium": "Tempera colors, gold paint, and ink on parchment bound between wood boards covered with pigskin"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/1485",
+    "culture": "German",
+    "date": "1500 to 1505",
+    "description": "Missal; Unknown; Westphalia, Germany; 1500 to 1505; Tempera colors, gold paint, and ink on parchment bound between wood boards covered with pigskin; Leaf: 38.7 × 27.9 cm (15 1/4 × 11 in.); Ms. 18; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "Leaf: 38.7 × 27.9 cm (15 1/4 × 11 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Tempera colors, gold paint, and ink on parchment bound between wood boards covered with pigskin",
+    "name": "Missal",
+    "object_number": "Ms. 18",
+    "object_type": "Manuscript",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Westphalia, Germany",
+    "title": "Missal"
+}

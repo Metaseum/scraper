@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00952201.jpg", "title": "Miniature Skeleton", "description": "Miniature Skeleton; Unknown; Asia Minor; 1st century; Bronze; 6.6 × 2 × 1 cm (2 5/8 × 13/16 × 3/8 in.); 78.AB.307; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "78.AB.307", "canonical_url": "http://www.getty.edu/art/collection/objects/8376", "image_full": "http://www.getty.edu/museum/media/images/web/download/00952201.jpg", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Miniature Skeleton", "classification": "Sculpture", "culture": "Roman", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00952201.jpg", "date": "1st century", "department": "Antiquities", "dimensions": "6.6 × 2 × 1 cm (2 5/8 × 13/16 × 3/8 in.)", "place_created": "Asia Minor", "object_type": "Human figure", "medium": "Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8376",
+    "culture": "Roman",
+    "date": "1st century A.D.",
+    "description": "Miniature Skeleton; Unknown; Asia Minor; 1st century A.D.; Bronze; 6.6 × 2 × 1 cm (2 5/8 × 13/16 × 3/8 in.); 78.AB.307; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "6.6 × 2 × 1 cm (2 5/8 × 13/16 × 3/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze",
+    "name": "Miniature Skeleton",
+    "object_number": "78.AB.307",
+    "object_type": "Human figure",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Asia Minor",
+    "title": "Miniature Skeleton"
+}

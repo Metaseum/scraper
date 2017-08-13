@@ -1,1 +1,17 @@
-{"canonical_url": "http://www.getty.edu/art/collection/objects/10994", "description": "Ring with solid hoop; Unknown; Etruria; second half of 6th century B.C.; Gold; 1.9 × 0.9 cm (3/4 × 3/8 in.); 85.AM.268; J. Paul Getty Museum, Los Angeles, California", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "title": "Ring with solid hoop", "name": "Ring with solid hoop", "culture": "Etruscan", "medium": "Gold", "date": "second half of 6th century B.C.", "dimensions": "1.9 × 0.9 cm (3/4 × 3/8 in.)", "maker": "Unknown", "place_created": "Etruria", "object_type": "Ring", "object_number": "85.AM.268", "image": "http://www.getty.edu/museum/media/images/web/enlarge/01299801.jpg", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/01299801.jpg", "open_content": "yes", "on_view": "no", "image_full": "http://www.getty.edu/museum/media/images/web/download/01299801.jpg"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10994",
+    "culture": "Etruscan",
+    "date": "second half of 6th century B.C.",
+    "description": "Ring with solid hoop; Unknown; Etruria; second half of 6th century B.C.; Gold; 1.9 × 0.9 cm (3/4 × 3/8 in.); 85.AM.268; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "1.9 × 0.9 cm (3/4 × 3/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Gold",
+    "name": "Ring with solid hoop",
+    "object_number": "85.AM.268",
+    "object_type": "Ring",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Etruria",
+    "title": "Ring with solid hoop"
+}

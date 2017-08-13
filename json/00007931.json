@@ -1,1 +1,20 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00905101.jpg", "title": "Pendant: Ram's Head", "description": "Pendant: Ram's Head; Unknown; Italy; 500 - 400 B.C.; Amber; 18.5 × 13 × 30.5 mm (3/4 × 1/2 × 1 3/16 in.); 77.AO.81.17; Gift of Gordon McLendon; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "77.AO.81.17", "canonical_url": "http://www.getty.edu/art/collection/objects/7931", "image_full": "http://www.getty.edu/museum/media/images/web/download/00905101.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Pendant: Ram's Head", "classification": "Jewelry", "culture": "Italic", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00905101.jpg", "date": "500 - 400 B.C.", "department": "Antiquities", "dimensions": "18.5 × 13 × 30.5 mm (3/4 × 1/2 × 1 3/16 in.)", "place_created": "Italy", "object_type": "Bead", "medium": "Amber"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/7931",
+    "culture": "Italic",
+    "date": "500 - 400 B.C.",
+    "description": "Pendant: Ram's Head; Unknown; Italy; 500 - 400 B.C.; Amber; 18.5 × 13 × 30.5 mm (3/4 × 1/2 × 1 3/16 in.); 77.AO.81.17; Gift of Gordon McLendon; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "18.5 × 13 × 30.5 mm (3/4 × 1/2 × 1 3/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00905101.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00905101.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Amber",
+    "name": "Pendant: Ram's Head",
+    "object_number": "77.AO.81.17",
+    "object_type": "Bead",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00905101.jpg",
+    "title": "Pendant: Ram's Head"
+}

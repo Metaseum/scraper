@@ -1,1 +1,20 @@
-{"description": "Centaur and Lapith; Francesco Primaticcio (Italian, 1504 - 1570); Italy; about 1540; Red chalk; 21.7 x 27.8 cm (8 9/16 x 10 15/16 in.); 89.GB.66; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00029701.jpg", "date": "about 1540", "open_content": "yes", "canonical_url": "http://www.getty.edu/art/collection/objects/295", "image_full": "http://www.getty.edu/museum/media/images/web/download/00029701.jpg", "culture": "Italian", "maker": "Francesco Primaticcio", "medium": "Red chalk", "classification": "Drawings", "name": "Centaur and Lapith", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "89.GB.66", "place_created": "Italy", "title": "Centaur and Lapith", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00029701.jpg", "dimensions": "21.7 x 27.8 cm (8 9/16 x 10 15/16 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/295",
+    "culture": "Italian",
+    "date": "about 1540",
+    "description": "Centaur and Lapith; Francesco Primaticcio (Italian, 1504 - 1570); Italy; about 1540; Red chalk; 21.7 × 27.8 cm (8 9/16 × 10 15/16 in.); 89.GB.66; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "21.7 × 27.8 cm (8 9/16 × 10 15/16 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00029701.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00029701.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Francesco Primaticcio",
+    "medium": "Red chalk",
+    "name": "Centaur and Lapith",
+    "object_number": "89.GB.66",
+    "object_type": "Drawing",
+    "on_view": "no",
+    "open_content": "yes",
+    "place_created": "Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00029701.jpg",
+    "title": "Centaur and Lapith"
+}

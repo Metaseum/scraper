@@ -1,1 +1,21 @@
-{"description": "Madonna and Child; Workshop of Paolo Uccello (Italian, about 1397 - 1475); Italy; about 1470 - 1475; Tempera on panel; Panel: 53.3 × 41.9 × 3.8 cm (21 × 16 1/2 × 1 1/2 in.); 70.PB.44; J. Paul Getty Museum, Los Angeles, California", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00061301.jpg", "date": "about 1470 - 1475", "open_content": "yes", "canonical_url": "http://www.getty.edu/art/collection/objects/565", "image_full": "http://www.getty.edu/museum/media/images/web/download/00061301.jpg", "culture": "Italian", "maker": "Workshop of Paolo Uccello", "medium": "Tempera on panel", "classification": "Paintings", "name": "Madonna and Child", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "location": "gc", "object_number": "70.PB.44", "place_created": "Italy", "title": "Madonna and Child", "department": "Paintings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00061301.jpg", "dimensions": "Panel: 53.3 × 41.9 × 3.8 cm (21 × 16 1/2 × 1 1/2 in.)", "on_view": "yes", "object_type": "Painting"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/565",
+    "culture": "Italian",
+    "date": "about 1470 - 1475",
+    "description": "Madonna and Child; Workshop of Paolo Uccello (Italian, about 1397 - 1475); Italy; about 1470 - 1475; Tempera on panel; Panel: 53.3 × 41.9 × 3.8 cm (21 × 16 1/2 × 1 1/2 in.); 70.PB.44; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "Panel: 53.3 × 41.9 × 3.8 cm (21 × 16 1/2 × 1 1/2 in.)",
+    "image": "http://www.getty.edu/museum/media/images/web/enlarge/00061301.jpg",
+    "image_full": "http://www.getty.edu/museum/media/images/web/download/00061301.jpg",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "location": "gc",
+    "maker": "Workshop of Paolo Uccello",
+    "medium": "Tempera on panel",
+    "name": "Madonna and Child",
+    "object_number": "70.PB.44",
+    "object_type": "Painting",
+    "on_view": "yes",
+    "open_content": "yes",
+    "place_created": "Italy",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00061301.jpg",
+    "title": "Madonna and Child"
+}

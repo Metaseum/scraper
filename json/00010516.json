@@ -1,1 +1,17 @@
-{"canonical_url": "http://www.getty.edu/art/collection/objects/10516", "description": "Finial; Unknown; Roman Empire; 1st century; Bronze; 9.2 cm (3 5/8 in.); 83.AC.292.10; J. Paul Getty Museum, Los Angeles, California", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "title": "Finial", "name": "Finial", "culture": "Roman", "medium": "Bronze", "date": "1st century", "dimensions": "9.2 cm (3 5/8 in.)", "maker": "Unknown", "place_created": "Roman Empire", "object_type": "Finial", "object_number": "83.AC.292.10", "open_content": "no", "on_view": "no"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10516",
+    "culture": "Roman",
+    "date": "1st century",
+    "description": "Finial; Unknown; Roman Empire; 1st century; Bronze; 9.2 cm (3 5/8 in.); 83.AC.292.10; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "9.2 cm (3 5/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze",
+    "name": "Finial",
+    "object_number": "83.AC.292.10",
+    "object_type": "Finial",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Roman Empire",
+    "title": "Finial"
+}

@@ -1,1 +1,17 @@
-{"canonical_url": "http://www.getty.edu/art/collection/objects/10760", "description": "Attic Red-Figure Askos; Unknown; Athens, Greece; about 410 B.C.; Terracotta; 6.7 x 9.3 cm (2 5/8 x 3 11/16 in.); 83.AE.396; Gift of William D. Montapert; J. Paul Getty Museum, Los Angeles, California", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "title": "Attic Red-Figure Askos", "name": "Attic Red-Figure Askos", "culture": "Greek (Attic)", "medium": "Terracotta", "date": "about 410 B.C.", "dimensions": "6.7 x 9.3 cm (2 5/8 x 3 11/16 in.)", "maker": "Unknown", "place_created": "Athens, Greece", "object_type": "Askos", "object_number": "83.AE.396", "open_content": "no", "on_view": "no"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/10760",
+    "culture": "Greek (Attic)",
+    "date": "about 410 B.C.",
+    "description": "Attic Red-Figure Askos; Unknown; Athens, Greece; about 410 B.C.; Terracotta; 6.7 x 9.3 cm (2 5/8 x 3 11/16 in.); 83.AE.396; Gift of William D. Montapert; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "6.7 x 9.3 cm (2 5/8 x 3 11/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Terracotta",
+    "name": "Attic Red-Figure Askos",
+    "object_number": "83.AE.396",
+    "object_type": "Askos",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Athens, Greece",
+    "title": "Attic Red-Figure Askos"
+}

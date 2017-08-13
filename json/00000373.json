@@ -1,1 +1,18 @@
-{"description": "Portrait of Paul Getty; Stephen Ward (English, died 1963); England; about 1960; Black and white chalk; 53 x 36.2 cm (20 7/8 x 14 1/4 in.); 91.GB.61; Gift of Hazlitt, Gooden & Fox Ltd; J. Paul Getty Museum, Los Angeles, California", "date": "about 1960", "open_content": "no", "canonical_url": "http://www.getty.edu/art/collection/objects/373", "culture": "English", "maker": "Stephen Ward", "medium": "Black and white chalk", "classification": "Drawings", "name": "Portrait of Paul Getty", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "object_number": "91.GB.61", "place_created": "England", "title": "Portrait of Paul Getty", "department": "Drawings", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00037901.jpg", "dimensions": "53 x 36.2 cm (20 7/8 x 14 1/4 in.)", "on_view": "yes", "object_type": "Drawing"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/373",
+    "culture": "English",
+    "date": "1960",
+    "description": "Portrait of Paul Getty; Stephen Ward (English, died 1963); England; 1960; Black and white chalk; 53 × 36.2 cm (20 7/8 × 14 1/4 in.); 91.GB.61; Gift of Hazlitt, Gooden & Fox Ltd; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "53 × 36.2 cm (20 7/8 × 14 1/4 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Stephen Ward",
+    "medium": "Black and white chalk",
+    "name": "Portrait of Paul Getty",
+    "object_number": "91.GB.61",
+    "object_type": "Drawing",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "England",
+    "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00037901.jpg",
+    "title": "Portrait of Paul Getty"
+}

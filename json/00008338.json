@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Stud", "description": "Stud; Unknown; Roman Empire (Britain ?); 2nd - 4th century; Enamelled Bronze; 1.5 cm (9/16 in.); 78.AC.289.13; Gift of Gordon McLendon; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "78.AC.289.13", "canonical_url": "http://www.getty.edu/art/collection/objects/8338", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Stud", "classification": "Implements", "culture": "Roman", "date": "2nd - 4th century", "department": "Antiquities", "dimensions": "1.5 cm (9/16 in.)", "place_created": "Roman Empire (Britain ?)", "object_type": "Stud", "medium": "Enamelled Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8338",
+    "culture": "Roman",
+    "date": "2nd - 4th century",
+    "description": "Stud; Unknown; Roman Empire (Britain ?); 2nd - 4th century; Enamelled Bronze; 1.5 cm (9/16 in.); 78.AC.289.13; Gift of Gordon McLendon; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "1.5 cm (9/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Enamelled Bronze",
+    "name": "Stud",
+    "object_number": "78.AC.289.13",
+    "object_type": "Stud",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Roman Empire (Britain ?)",
+    "title": "Stud"
+}

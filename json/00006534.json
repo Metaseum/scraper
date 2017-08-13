@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Frescoed Wall with White Ground and Yellow Center Panel", "description": "Frescoed Wall with White Ground and Yellow Center Panel; Unknown; Boscoreale, Italy; about 70; Fresco; 310 × 150 cm (122 1/16 × 59 1/16 in.); 70.AG.90; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "70.AG.90", "canonical_url": "http://www.getty.edu/art/collection/objects/6534", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Frescoed Wall with White Ground and Yellow Center Panel", "classification": "Paintings", "culture": "Roman", "date": "about 70", "department": "Antiquities", "dimensions": "310 × 150 cm (122 1/16 × 59 1/16 in.)", "place_created": "Boscoreale, Italy", "object_type": "Fresco", "medium": "Fresco"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6534",
+    "culture": "Roman",
+    "date": "about 70 A.D.",
+    "description": "Frescoed Wall with White Ground and Yellow Center Panel; Unknown; Boscoreale, Italy; about 70 A.D.; Fresco; 310 × 150 cm (122 1/16 × 59 1/16 in.); 70.AG.90; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "310 × 150 cm (122 1/16 × 59 1/16 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Fresco",
+    "name": "Frescoed Wall with White Ground and Yellow Center Panel",
+    "object_number": "70.AG.90",
+    "object_type": "Fresco",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Boscoreale, Italy",
+    "title": "Frescoed Wall with White Ground and Yellow Center Panel"
+}

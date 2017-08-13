@@ -1,1 +1,17 @@
-{"maker": "Unknown", "title": "Didrachm", "description": "Didrachm; Unknown; Aradus, Phoenicia, Syria; 174 - 110 B.C.; Silver; 0.0039 kg (0.0086 lb.); 78.NH.315.1; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "no", "object_number": "78.NH.315.1", "canonical_url": "http://www.getty.edu/art/collection/objects/8400", "location": "gv", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Didrachm", "classification": "Coins", "culture": "Phoenician", "date": "174 - 110 B.C.", "department": "Antiquities", "dimensions": "0.0039 kg (0.0086 lb.)", "place_created": "Aradus, Phoenicia, Syria", "object_type": "Coin", "medium": "Silver"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/8400",
+    "culture": "Phoenician",
+    "date": "174 - 110 B.C.",
+    "description": "Drachm; Unknown; Aradus, Phoenicia, Syria; 174 - 110 B.C.; Silver; 0.0039 kg (0.0086 lb.); 78.NH.315.1; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "0.0039 kg (0.0086 lb.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Silver",
+    "name": "Drachm",
+    "object_number": "78.NH.315.1",
+    "object_type": "Coin",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Aradus, Phoenicia, Syria",
+    "title": "Drachm"
+}

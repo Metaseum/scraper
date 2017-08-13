@@ -1,1 +1,17 @@
-{"maker": "Unknown", "thumbimage": "http://www.getty.edu/museum/media/images/web/thumbnail/00799401.jpg", "title": "Statuette of Venus", "description": "Statuette of Venus; Unknown; Asia Minor; 1st century; Bronze; 46 cm (18 1/8 in.); 71.AB.460; J. Paul Getty Museum, Los Angeles, California", "on_view": "yes", "open_content": "yes", "object_number": "71.AB.460", "canonical_url": "http://www.getty.edu/art/collection/objects/6903", "image_full": "http://www.getty.edu/museum/media/images/web/download/00799401.jpg", "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings", "name": "Statuette of Venus", "classification": "Sculpture", "culture": "Roman", "image": "http://www.getty.edu/museum/media/images/web/enlarge/00799401.jpg", "date": "1st century", "department": "Antiquities", "dimensions": "46 cm (18 1/8 in.)", "place_created": "Asia Minor", "object_type": "Mythological figure", "medium": "Bronze"}
+{
+    "canonical_url": "http://www.getty.edu/art/collection/objects/6903",
+    "culture": "Roman",
+    "date": "1st century",
+    "description": "Statuette of Venus; Unknown; Asia Minor; 1st century; Bronze; 46 cm (18 1/8 in.); 71.AB.460; J. Paul Getty Museum, Los Angeles, California",
+    "dimensions": "46 cm (18 1/8 in.)",
+    "keywords": "Getty Museum collections, artworks, art works, art history, video, interpretation of art, acquisitions, artists, Getty art, collections Getty, collezioni Getty, colecciones Getty, Sammlung Getty, Getty exhibits, Getty current exhibitions, Getty Museum exhibits, los angeles collections, antiquities, decorative arts, sculpture, manuscripts, photography, paintings, drawings",
+    "maker": "Unknown",
+    "medium": "Bronze",
+    "name": "Statuette of Venus",
+    "object_number": "71.AB.460",
+    "object_type": "Mythological figure",
+    "on_view": "no",
+    "open_content": "no",
+    "place_created": "Asia Minor",
+    "title": "Statuette of Venus"
+}
